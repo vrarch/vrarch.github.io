@@ -3,4 +3,8 @@
 
 #### Support or Contact
 
-Having trouble with Pages? [Contact support](https://github.com/contact) and we’ll help you sort it out.
+<form method="POST" action="http://formspree.io/flvnn@tutamail.com">
+  <input name="email" placeholder="Your email" type="email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>

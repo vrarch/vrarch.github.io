@@ -8,3 +8,4 @@
   <textarea name="message" placeholder="Your message"></textarea>
   <button type="submit">Send</button>
 </form>
+<input type="hidden" name="_next" value="//vrarch.github.io" />

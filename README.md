@@ -3,9 +3,9 @@
 
 #### Support or Contact
 
-<form method="POST" action="http://formspree.io/flvnn@tutamail.com">
-  <input name="email" placeholder="Your email" type="email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
+<form method="POST" action="https://formspree.io/flvnn@tutamail.com">
+  <input type="text" name="text">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
 </form>
-<input type="hidden" name="_next" value="//vrarch.github.io" />
+<input type="hidden" name="_next" value="https://vrarch.github.io" />
